@@ -58,3 +58,15 @@ Ansys Minerva需要一個代理服務，該服務負責基於輪詢周期執行�
 DCG需要安裝在提交節點或您的高性能計算機的主節點上。
 
 相容的排程程序為: SLURM、LSF、MS HPC、PBS、UGE（+ ARC僅用於測試目的）
+
+{% hint style="info" %}
+在ANSYS Minerva中，Vault和Database都是用於資料儲存的元件，但它們在功能和用途上有一些不同。
+
+1. Vault： Vault 是一個用於存儲和管理檔案的中心化系統。它通常用於存儲和追踪不同版本的檔案，例如模型、模擬結果和其他相關文件。Vault 有助於保持團隊成員之間的協同作業，並確保每個人都可以輕鬆訪問和使用最新版本的文件。Vault 通常包括版本控制、權限管理和檔案檢索功能。
+2. Database： Database 是一個組織和存儲結構化數據的系統。在ANSYS Minerva中，Database 用於存儲和管理模型、模擬和專案相關的元數據（metadata），例如專案名稱、創建日期、相關標籤等。Database 使用者可以輕鬆搜尋、篩選和查找特定的模型、模擬或專案。Database 的主要目的是確保數據的組織性和可搜尋性。
+
+總之，Vault 和 Database 在ANSYS Minerva中都用於資料儲存，但它們的主要區別在於：
+
+* Vault 主要用於存儲和管理檔案，例如模型和模擬結果。
+* Database 主要用於存儲和管理與模型、模擬和專案相關的元數據。
+{% endhint %}
