@@ -53,4 +53,4 @@
   * [企業常用的管理軟體](8.-bu-chong-nei-rong/qi-ye-chang-yong-de-guan-li-ruan-ti.md)
   * [資源管理系統](8.-bu-chong-nei-rong/zi-yuan-guan-li-xi-tong.md)
 * [9. 專有名詞](9.-zhuan-you-ming-ci.md)
-* [待辦工作](<README (1).md>)
+* [待辦工作](README.md)
