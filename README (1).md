@@ -3,7 +3,7 @@
 * [x] 加入新的使用者帳號，並以該帳號登入
 * [x] 加入經理帳號，並加入工作由使用者發送日報告，經理簽核
 * [x] 自定Application-打開AEDT並開啟GUI指定檔案
-* [ ] AEDT連結Minerva
+* [x] AEDT連結Minerva，完成開檔/存檔
 * [ ] 設計客製化表單
 * [x] 完成一個aedt模擬
 * [ ] 加入Python計算機
