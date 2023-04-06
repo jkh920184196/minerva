@@ -1,6 +1,6 @@
 # 工作請求生命週期實例
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 假設我們正在使用 Ansys Minerva 進行一個模擬分析任務。首先，我們需要在 Ansys Minerva 中建立一個任務，並指派給一個工程師進行模擬分析。這個任務的狀態是 New。&#x20;
 
