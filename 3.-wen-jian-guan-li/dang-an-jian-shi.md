@@ -28,6 +28,6 @@ Application Launcher是一個在用戶本地電腦上安裝的應用程式，它
 4. 用戶可以使用所選應用程序編輯檔案。編輯完成後，用戶保存並關閉應用程序。
 5. Application Launcher將編輯過的檔案重新上傳到Minerva平台，並將其存儲在相應的資料庫中。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 這種工作原理使得用戶可以方便地從Minerva平台中直接訪問和編輯檔案，而無需手動下載和上傳。同時，這也確保了檔案在整個過程中的版本控制和追踪。

@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [章節](<README (1).md>)
+* [ANSYS Minerva入門手冊](README.md)
 * [1. Ansys Minerva 簡介](1.-ansys-minerva-jian-jie/README.md)
   * [研發團隊管理面臨的難題](1.-ansys-minerva-jian-jie/mo-ni-tuan-dui-guan-li-mian-lin-de-nan-ti.md)
   * [複雜工作管理](1.-ansys-minerva-jian-jie/fu-za-gong-zuo-guan-li.md)
@@ -54,4 +53,4 @@
   * [企業常用的管理軟體](8.-bu-chong-nei-rong/qi-ye-chang-yong-de-guan-li-ruan-ti.md)
   * [資源管理系統](8.-bu-chong-nei-rong/zi-yuan-guan-li-xi-tong.md)
 * [10. 專有名詞](9.-zhuan-you-ming-ci.md)
-* [待辦工作](<README (1) (1).md>)
+* [待辦工作](<README (1).md>)
