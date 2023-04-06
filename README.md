@@ -1,9 +1,3 @@
-# 章節
+# Page 1
 
-1. Ansys Minerva 簡介：了解 Ansys Minerva 的基本概念、功能以及如何應用於模擬過程和數據管理。
-2. 界面導覽：熟悉 Ansys Minerva 的用戶界面，包括數據視圖、工作區、工具欄和導航面板等，以便快速定位所需功能。
-3. 文件管理：學習如何在 Ansys Minerva 中創建、導入、導出和管理文件，以及如何使用文件夾結構和版本控制功能。
-4. 工作流程設計：瞭解如何在 Ansys Minerva 中設計和管理工作流程，包括創建任務、分配角色和設置截止日期等。
-5. 協同合作：了解如何使用 Ansys Minerva 進行團隊協作，包括分配任務、共享數據和跟踪工作進度等。
-6. 模擬結果分析：學習如何使用 Ansys Minerva 查看和分析模擬結果，以便瞭解性能指標和優化設計。
-7. 系統設置和管理：了解如何配置 Ansys Minerva 的系統設置，例如用戶管理、角色權限和數據備份等。
+{% embed url="https://www.ansys.com/content/dam/product/platform/ansys-minerva-infographic.pdf" %}
