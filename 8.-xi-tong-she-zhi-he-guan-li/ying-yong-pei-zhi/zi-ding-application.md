@@ -10,7 +10,7 @@ description: 使用者可以根據需求加入新的計算或模擬應用到Appl
 
 通過創建應用程序定義，您可以為應用程序提供所需的信息，以便在 Ansys Minerva 平台中正確運行。此外，它還可以幫助管理者確保應用程序在各種運行環境和工作負載下保持靈活性和高度定制性。
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 定義變量
 

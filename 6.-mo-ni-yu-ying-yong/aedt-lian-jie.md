@@ -15,7 +15,7 @@ description: >-
 3. 輸入您的用戶名和密碼。
 4. 點擊「確定」按鈕以連接到 Ansys Minerva。
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### 與Minerva同步設計變更
 
