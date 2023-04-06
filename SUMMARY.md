@@ -32,6 +32,7 @@
   * [報告](4.-gong-zuo-liu-cheng-she-ji/bao-gao.md)
 * [5. 協同合作](5.-xie-tong-he-zuo/README.md)
   * [協作方式](5.-xie-tong-he-zuo/xie-zuo-fang-shi.md)
+  * [討論](5.-xie-tong-he-zuo/tao-lun.md)
 * [6. 模擬與應用](6.-mo-ni-yu-ying-yong/README.md)
   * [AEDT連結](6.-mo-ni-yu-ying-yong/aedt-lian-jie.md)
 * [7. 模擬結果分析](6.-mo-ni-jie-guo-fen-xi.md)
