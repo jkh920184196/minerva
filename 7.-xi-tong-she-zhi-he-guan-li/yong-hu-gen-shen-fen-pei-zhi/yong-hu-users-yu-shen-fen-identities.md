@@ -8,7 +8,7 @@
 
 這種方法確保了只有具有特定角色的用戶可以訪問相應的儀表板。通過為不同角色的用戶提供定制的儀表板，您可以實現更有效的數據展示和管理。此外，這有助於保護敏感數據，防止未經授權的用戶訪問不應看到的信息。在組織中，這樣的訪問控制策略有助於確保各個部門能夠專注於與其職責相關的信息和任務，從而提高工作效率。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Member
 

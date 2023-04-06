@@ -18,7 +18,7 @@
 
 Application Launcher是一個在用戶本地電腦上安裝的應用程式，它充當了Minerva平台與本地電腦之間的橋樑。通過使用Application Launcher，用戶可以在Minerva平台上輕鬆啟動和訪問各種應用程式，而無需手動下載和上傳檔案。本地電腦可以在登入Minerva之後下載安裝：
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 以下是Application Launcher的工作過程：
 
