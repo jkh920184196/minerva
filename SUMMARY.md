@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [章節](<README (1).md>)
+* [ANSYS Minerva入門手冊](README.md)
 * [1. Ansys Minerva 簡介](1.-ansys-minerva-jian-jie/README.md)
   * [研發團隊管理面臨的難題](1.-ansys-minerva-jian-jie/mo-ni-tuan-dui-guan-li-mian-lin-de-nan-ti.md)
   * [複雜工作管理](1.-ansys-minerva-jian-jie/fu-za-gong-zuo-guan-li.md)
@@ -43,6 +42,7 @@
     * [用戶(Users)與身份(Identities)](7.-xi-tong-she-zhi-he-guan-li/yong-hu-gen-shen-fen-pei-zhi/yong-hu-users-yu-shen-fen-identities.md)
     * [用戶界面](7.-xi-tong-she-zhi-he-guan-li/yong-hu-gen-shen-fen-pei-zhi/yong-hu-jie-mian.md)
   * [應用配置](7.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/README.md)
+    * [自訂Application](8.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/zi-ding-application.md)
     * [項目類型(ItemType)](7.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/xiang-mu-lei-xing-itemtype.md)
     * [將PyAEDT插入至Applicstions](7.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/jiang-pyaedt-cha-ru-zhi-applicstions.md)
     * [Ansys optiSLang Web Service](7.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/ansys-optislang-web-service.md)
@@ -54,4 +54,4 @@
   * [企業常用的管理軟體](8.-bu-chong-nei-rong/qi-ye-chang-yong-de-guan-li-ruan-ti.md)
   * [資源管理系統](8.-bu-chong-nei-rong/zi-yuan-guan-li-xi-tong.md)
 * [10. 專有名詞](9.-zhuan-you-ming-ci.md)
-* [待辦工作](<README (1) (1).md>)
+* [待辦工作](<README (1).md>)
