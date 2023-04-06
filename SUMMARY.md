@@ -11,7 +11,7 @@
 * [3. 文件管理](3.-wen-jian-guan-li/README.md)
   * [檔案和檔案夾](3.-wen-jian-guan-li/dang-an-he-dang-an-jia.md)
   * [檔案上傳方式](3.-wen-jian-guan-li/dang-an-shang-chuan-fang-shi.md)
-  * [檔案檢視](3.-wen-jian-guan-li/dang-an-jian-shi.md)
+  * [檔案檢視與編輯](3.-wen-jian-guan-li/dang-an-jian-shi-yu-bian-ji.md)
   * [檔案生命週期](3.-wen-jian-guan-li/dang-an-sheng-ming-zhou-qi.md)
   * [更改通知(Change Notice)](3.-wen-jian-guan-li/geng-gai-tong-zhi-change-notice.md)
   * [版本控管](3.-wen-jian-guan-li/ban-ben-kong-guan.md)
