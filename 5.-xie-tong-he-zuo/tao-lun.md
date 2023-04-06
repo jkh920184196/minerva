@@ -11,4 +11,4 @@ description: >-
 
 要訪問討論和收藏的項目，請選擇目錄中的“討論”。在“討論”頁面上，您還可以創建論壇、搜索或開始針對收藏的項目進行討論，以及關注特定人或論壇的信息。
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
