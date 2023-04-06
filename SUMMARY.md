@@ -42,6 +42,7 @@
     * [用戶(Users)與身份(Identities)](7.-xi-tong-she-zhi-he-guan-li/yong-hu-gen-shen-fen-pei-zhi/yong-hu-users-yu-shen-fen-identities.md)
     * [用戶界面](7.-xi-tong-she-zhi-he-guan-li/yong-hu-gen-shen-fen-pei-zhi/yong-hu-jie-mian.md)
   * [應用配置](7.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/README.md)
+    * [作業模板(Job Template)](8.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/zuo-ye-mo-ban-job-template.md)
     * [自訂Application](8.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/zi-ding-application.md)
     * [Ansys optiSLang Web Service整合](7.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/ansys-optislang-web-service.md)
     * [將PyAEDT插入至Applicstions](7.-xi-tong-she-zhi-he-guan-li/ying-yong-pei-zhi/jiang-pyaedt-cha-ru-zhi-applicstions.md)
