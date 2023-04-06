@@ -12,5 +12,3 @@ ANSYS Minerva 是一個基於雲端的智能產品知識管理平台，旨在幫
 6. 安全性：Minerva 提供了多層次的安全性保護，包括用戶權限管理、數據加密和備份，確保數據的安全性和完整性。
 7. 數據分析與可視化：Minerva 支持數據分析和可視化，使得用戶可以更好地理解模擬結果，並在多個專案和模擬之間進行比較。
 8. 整合與擴展性：Minerva 可與 ANSYS 的各種模擬工具以及其他第三方軟件進行無縫整合，提供靈活的擴展性，以滿足不同組織的需求。
-
-{% embed url="https://www.ansys.com/content/dam/product/platform/ansys-minerva-infographic.pdf" %}

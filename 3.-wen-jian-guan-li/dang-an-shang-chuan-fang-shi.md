@@ -5,4 +5,4 @@
 1. 拖放上傳：在Minerva的數據視圖中，您可以直接將本地文件拖放到指定的文件夾。選擇您想要上傳文件的文件夾，然後將本地文件拖放到該文件夾中。文件將自動上傳並保存到該文件夾。
 2. 使用上傳按鈕：在Minerva的數據視圖中，尋找並點擊上傳按鈕。在彈出的對話框中，瀏覽並選擇要上傳的本地文件，然後點擊開始上傳。選定的文件將上傳到當前文件夾。
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
