@@ -3,7 +3,6 @@
 * [章節](README.md)
 * [1. Ansys Minerva 簡介](1.-ansys-minerva-jian-jie/README.md)
   * [研發團隊管理面臨的難題](1.-ansys-minerva-jian-jie/mo-ni-tuan-dui-guan-li-mian-lin-de-nan-ti.md)
-  * [功能概要](1.-ansys-minerva-jian-jie/gong-neng-gai-yao.md)
   * [複雜工作管理](1.-ansys-minerva-jian-jie/fu-za-gong-zuo-guan-li.md)
   * [SPDM相關人員的定位和工作](1.-ansys-minerva-jian-jie/spdm-xiang-guan-ren-yuan-de-ding-wei-he-gong-zuo.md)
 * [2. Minerva界面導覽](2.-minerva-jie-mian-dao-lan/README.md)

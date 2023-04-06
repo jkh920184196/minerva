@@ -9,4 +9,4 @@
 
 總的來說，更改通知是一種管理工具，用於確保文件和模擬項目的更改是經過授權的和經過適當審批的，從而確保項目的一致性和可追溯性。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
