@@ -8,7 +8,7 @@
 4. "Obsolete"：當項目不再需要使用時，可以將其狀態更改為 "Obsolete"。這表示項目已被棄用並不再推薦使用。
 5. "Superseded"：當項目的某些部分需要進行修改時，可以將其狀態更改為 "Superseded"。這表示項目已被修改並且需要進行更新。舊版本仍然可以使用，但新版本已經被推薦使用。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 在 Ansys Minerva 中，更改文件的生命週期需要將其附加到更改通知 (Change Notices) 中。在更改通知中，檔案作者必須說明更改的原因和目的。更改通知還需要經過審查者的投票才能得到批准。一旦更改通知得到審查者的同意，才能將文件的狀態更改為新的生命週期狀態。這樣可以確保文件的更改是經過授權的，同時也可以保證項目的一致性和可追溯性。
