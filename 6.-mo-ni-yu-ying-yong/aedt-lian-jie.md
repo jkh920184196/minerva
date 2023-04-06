@@ -15,7 +15,7 @@ description: >-
 3. 輸入您的用戶名和密碼。
 4. 點擊「確定」按鈕以連接到 Ansys Minerva。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 與Minerva同步設計變更
 
@@ -36,7 +36,7 @@ description: >-
 1. 從 AEDT 工具欄中，選擇「Ansys Minerva」>「聲明項目」或「取消聲明項目」。
 2. 當您完成對項目的編輯時，請取消聲明項目，以便其他用戶可以編輯該項目。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 存檔會連同模擬結果以.aedtz壓縮檔格式存放在Minerva 保險庫當中。
