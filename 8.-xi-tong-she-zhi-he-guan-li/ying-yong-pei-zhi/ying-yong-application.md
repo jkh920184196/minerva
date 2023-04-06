@@ -2,7 +2,7 @@
 description: 使用者可以根據需求加入新的計算或模擬應用到Applications模板當中，比方說前結構設定或資料分析腳本等等
 ---
 
-# 自訂Application
+# 應用(Application)
 
 ### 應用程序定義（Application Definition）
 
@@ -10,13 +10,13 @@ description: 使用者可以根據需求加入新的計算或模擬應用到Appl
 
 通過創建應用程序定義，您可以為應用程序提供所需的信息，以便在 Ansys Minerva 平台中正確運行。此外，它還可以幫助管理者確保應用程序在各種運行環境和工作負載下保持靈活性和高度定制性。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 定義變量
 
 定義應用程式設定包括填寫應用程式名稱、可執行路徑、參數、描述、類型、輸出定義檔、輸出檔案權限、標籤、作業範本、求解器標籤、匯入定義檔、允許自定義匯入和圖示等。其中，類型決定了應用程式在何處以及如何運行，包括本地運行、批次運行、HPC VDI 運行、遠程桌面運行和 optiSLang Web App。如果您想要創建和管理集群、存儲和佇列配置，必須成為系統管理員組或具有相應權限的用戶組成員。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 選項設定
 
@@ -24,4 +24,4 @@ description: 使用者可以根據需求加入新的計算或模擬應用到Appl
 
 此外，還介紹了如何在「腳本」、「環境變數」和「變量」頁籤上指定腳本、環境變數和變量等相關設置，以及如何在「數據資源」頁籤上上傳含有輸入資料的檔案（例如腳本）。注意，您必須為應用程式關聯至少一種檔案類型，否則您只能在「運行」菜單中查看該應用程式，而不能啟動它。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
